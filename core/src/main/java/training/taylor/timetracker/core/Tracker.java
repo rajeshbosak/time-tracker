@@ -28,7 +28,7 @@ public class Tracker {
 
     public TimeEntry get(int index) {
         try {
-
+            System.out.println("try block");
         } catch (Exception e) {
 
         }
